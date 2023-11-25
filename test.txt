@@ -1,3 +1,4 @@
 this is the first test  - TEST 1
-this is the third test - trying to merge branch main and branch-1 - this will add line 2 in the main 
 this is the is me creating a new branch witht the test.txt file - TEST 2
+this is the third test - trying to merge branch main and branch-1 - this will add line 2 in the main 
+
